@@ -1,0 +1,24 @@
+state={
+	id=126
+	name="STATE_126"
+	manpower = 50
+	
+	
+
+	history={
+		owner = 
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		add_core_of = 
+		victory_points = {
+			1594 50 
+		}
+
+	}
+
+	provinces={
+		1594 
+	}
+}
